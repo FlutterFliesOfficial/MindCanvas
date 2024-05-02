@@ -7,13 +7,11 @@ import '../design/splash_content.dart';
 List<Map<String, String>> splashData = [
   {
     'image': 'assets/images/t.jpeg',
-    'text':
-        'Our mission is to support autism intervention and facilitate access to vital resources',
+    'text': "Autism is my superpower, what's yours?",
   },
   {
     'image': 'assets/images/pp.jpeg',
-    'text':
-        'Autism varies, including social challenges and sensitivities. Our app promotes understanding and offers support.',
+    'text': "Communication is not just talking, it's also listening.",
   },
   {
     'image': 'assets/images/m.jpeg',
